@@ -90,21 +90,26 @@ stage-4|完成: 将被添加到下一年度发布|
 ## loader实现原理和loader自定义
 
 //todo webpack中loader是如何实现的的。
+<!-- 
+比如css-loader和babel-loader是如何来实现的 
+https://juejin.im/post/5a73f3715188257a7050eac0
+https://juejin.im/post/5a5c41266fb9a01c9a26b940
+-->
 
 //todo 如何编写自定义loader
+<!-- https://juejin.im/post/5accd3aa6fb9a028dd4e91d3 
+-->
 
 ## 项目运用经验
 //todo 项目中对loader的运用经验整理和分享
 
 ## 总结
->
+> 
 
 ## 参考文档
 [《webpack官方文档》](https://webpack.js.org/concepts/loaders/)
 
 [《babel中文网》](https://www.babeljs.cn)
-
-[《babel-loader源码导读》](https://juejin.im/post/5a5c41266fb9a01c9a26b940)
 
 [《webpack-loader详解》](https://juejin.im/post/5accd3aa6fb9a028dd4e91d3)
 
